@@ -16,9 +16,8 @@ generate-card: false
 
 # Tags
 tags:
-  - Gatsby
-  - Color
-  - Test
+  - color
+  - test
 ---
 
 This is a test for theme colors against the background.

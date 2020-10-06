@@ -3,7 +3,7 @@ module.exports = {
   siteDescription: 'Possibly evil. Definitely a Hillary.',
   authorName: 'Hillary Jeffrey',
   twitterUsername: 'DeputyHuman',
-  authorAvatar: 'avatar.jpeg', // file in content/images
+  authorAvatar: 'evil-hillary-pitchfork.png', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `Possibly evil. Definitely a Hillary.`,
   siteUrl: 'https://www.evilhillary.com/',
