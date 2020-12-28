@@ -10,7 +10,7 @@ module.exports = {
   // Prefixes all links. For cases when deployed to domain/site-parts/
   // pathPrefix: '/evil-hillary', // Note: it must *not* have a trailing slash.
   siteCover: 'concert-lighting.png', // file in content/images
-  // googleAnalyticsId: '',
+  googleAnalyticsId: 'G-R8LZ0XN89L',
   background_color: '#ffffff',
   theme_color: '#463591',
   display: 'standalone',
@@ -26,6 +26,10 @@ module.exports = {
     {
       label: 'About',
       url: '/about',
+    },
+    {
+      label: 'Why evil?',
+      url: '/why-evil',
     },
     {
       label: 'Github',
@@ -48,6 +52,10 @@ module.exports = {
         {
           label: 'About',
           url: '/about',
+        },
+        {
+          label: 'Why evil?',
+          url: '/why-evil',
         },
       ],
     },
