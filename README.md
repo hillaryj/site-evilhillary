@@ -18,3 +18,9 @@ For more information, see the [Gatsby documentation](https://www.gatsbyjs.com/do
 ## Build & deploy to GitHub pages ##
 
 For more information, see Gatsby's [How Gatsby Works with GitHub Pages](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/).
+
+To run the deployment script from the command-line:
+
+```shell
+npm run deploy
+```
