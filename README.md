@@ -1,4 +1,4 @@
-# site-evil-hillary
+# site-evilhillary
 
 Source for www.evilhillary.com, a Gatsby static site
 
@@ -7,7 +7,7 @@ Source for www.evilhillary.com, a Gatsby static site
 To start the local Gatsby development server:
 
 ```shell
-cd site-evil-hillary
+cd site-evilhillary
 npm run develop
 ```
 
