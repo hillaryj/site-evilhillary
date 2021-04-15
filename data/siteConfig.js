@@ -10,7 +10,7 @@ module.exports = {
   // Prefixes all links. For cases when deployed to domain/site-parts/
   // pathPrefix: '/evil-hillary', // Note: it must *not* have a trailing slash.
   siteCover: 'concert-lighting.png', // file in content/images
-  googleAnalyticsId: 'G-R8LZ0XN89L',
+  googleAnalyticsId: null,
   background_color: '#ffffff',
   theme_color: '#463591',
   display: 'standalone',
@@ -63,12 +63,12 @@ module.exports = {
       sectionName: 'Follow the author',
       links: [
         {
-          label: 'GitHub',
-          url: 'https://github.com/hillaryj',
+          label: 'Non-Evil Hillary',
+          url: 'https://www.hillaryjeffrey.com',
         },
         {
-          label: 'Non-Evil Website',
-          url: 'https://www.hillaryjeffrey.com',
+          label: 'GitHub',
+          url: 'https://github.com/hillaryj',
         },
       ],
     },
