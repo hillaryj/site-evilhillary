@@ -4,6 +4,19 @@ Source for www.evilhillary.com, a Gatsby static site
 
 ## Development ##
 
+### First run ###
+
+Clone this repository and install dependencies:
+
+```shell
+cd site-evilhillary
+npm install
+```
+
+If you run into issues and are on MacOS with an Apple M1 chipset, see [these steps to fix sharp](https://prabinpoudel.com.np/articles/setup-gatsby-with-strapi-in-m1-mac/).
+
+### Run deploy ###
+
 To start the local Gatsby development server:
 
 ```shell
