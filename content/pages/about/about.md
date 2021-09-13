@@ -2,7 +2,6 @@
 title: "About"
 slug: about
 cover: /images/evil-hillary-pitchfork.png
-disqus: false
 ---
 
 ## About Hillary ##

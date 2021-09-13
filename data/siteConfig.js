@@ -10,7 +10,6 @@ module.exports = {
   // Prefixes all links. For cases when deployed to domain/site-parts/
   // pathPrefix: '/evil-hillary', // Note: it must *not* have a trailing slash.
   siteCover: 'concert-lighting.png', // file in content/images
-  googleAnalyticsId: null,
   background_color: '#ffffff',
   theme_color: '#463591',
   display: 'standalone',
