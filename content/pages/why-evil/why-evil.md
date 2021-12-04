@@ -2,7 +2,6 @@
 title: "Why evil?"
 slug: why-evil
 cover: /images/evil-hillary-pitchfork.png
-disqus: false
 ---
 
 # Why evil? #
